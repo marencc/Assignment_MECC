@@ -17,7 +17,7 @@ pip install pandas-profiling
 
 ## Files
 
-The Jupyter notebook *MECC_Attrition_v2.ipynb* contains the code to follow.
+The Jupyter notebook *MECC_Attrition_v3.ipynb* contains the code to follow.
 
 
 ```
